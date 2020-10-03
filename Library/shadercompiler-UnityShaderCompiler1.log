@@ -1,0 +1,58 @@
+Base path: '/Applications/Unity/Hub/Editor/2019.4.11f1/Unity.app/Contents', plugins path '/Applications/Unity/Hub/Editor/2019.4.11f1/Unity.app/Contents/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=14 insize=18731 outsize=11294 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=5032 outsize=7304 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=7960 outsize=3135 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=9919 outsize=2923 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2923 outsize=4016 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2806 outsize=3491 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=11176 outsize=11445 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3174 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3126 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3727 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=47665 outsize=3906 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=12936 outsize=22171 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=865 outsize=676 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=7284 outsize=12545 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2545 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=1205 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2640 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2677 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2707 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=29386 outsize=2758 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2509 outsize=2372 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2360 outsize=2162 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2989 outsize=3516 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2843 outsize=3126 ok=1
+Cmd: compileComputeKernel
+  api=14 insize=31899 outsize=4027 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=5776 outsize=8817 ok=1
+Cmd: compileSnippet
+  api=14 type=1 insize=1402 outsize=1400 kw=UNITY_PASS_FORWARDBASE _EMISSION SOFTPARTICLES_ON _ALPHABLEND_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+
+Quitting shader compiler process
